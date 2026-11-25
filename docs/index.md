@@ -10,3 +10,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://mashakolch.github.io/devops-docs/`.
+
